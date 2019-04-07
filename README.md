@@ -13,11 +13,6 @@ This script can also decode Cloudflare encrypted data like emails etc.
 
 You can use XAMPP to install PHP. 
 
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-
 ## Built With
 
 * PHP
