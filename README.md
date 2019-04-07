@@ -27,7 +27,3 @@ Explain how to run the automated tests for this system
 
 Safi Ullah
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
