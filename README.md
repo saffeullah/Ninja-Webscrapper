@@ -1,2 +1,2 @@
 # Ninja-Webscrapper
-This is a PHP webscrapper. It can decode CloudFlare Encryption.
+Ninja WebScrapper is used to scrap any Website using Regular Expressions.
